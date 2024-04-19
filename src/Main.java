@@ -16,7 +16,7 @@ public class Main {
             System.out.println("1. Destinatario.");
             System.out.println("2. Mensaje.");
             System.out.println("3. Remitente.");
-            System.out.println("4. Salir.");
+            System.out.println("4. Enviar.");
             System.out.print("Seleccione una opción: ");
             opcion = scanner.nextInt();
 
