@@ -45,6 +45,8 @@ public class Main {
                     break;
             }
         } while (opcion != 4);
+		
+		System.out.println("Fin del programa");
 			
 		scanner.close();
 	}
