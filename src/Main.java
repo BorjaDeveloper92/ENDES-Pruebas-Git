@@ -9,6 +9,7 @@ public class Main {
 		String destinatario;
 		String mensaje;
 		String remitente;
+        String nombre;
 		
 		do {
 
