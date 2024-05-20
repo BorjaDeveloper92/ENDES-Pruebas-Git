@@ -12,7 +12,7 @@ public class Main {
         String nombre;
 		
 		do {
-
+			System.out.println("Na");
 			System.out.println("\nMenú:");
             System.out.println("1. Destinatario.");
             System.out.println("2. Mensaje.");
